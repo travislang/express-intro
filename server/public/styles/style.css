@@ -1,0 +1,38 @@
+body div{
+    margin: 40px;
+}
+
+
+.titlePage {
+    text-align: center;
+}
+
+.costsContainer {
+    display: flex;
+    justify-content: flex-end;
+}
+
+.deleteEmployee {
+    margin-top: 5px;
+    margin-left: 10px;
+}
+
+.costsOver {
+    background-color: red;
+}
+
+.employeeInputs input {
+    margin-right: 15px;
+    width: 175px;
+    border: 2px solid black;
+}
+
+#submitEmployeeBtn {
+    font-size: 1.1em;
+    width: 150px;
+    margin-left: 20px;
+}
+
+#employeeCosts {
+    padding: 5px;
+}
